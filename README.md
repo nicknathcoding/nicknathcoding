@@ -1,7 +1,7 @@
 # Hi, I'm Nicholas Nath 👋 
 
 ### 🚀 Software Engineer | Data Analyst | CS Graduate
-[cite_start]I am a Computer Science graduate with a specialization in **Software Engineering**[cite: 9, 10]. [cite_start]I blend technical proficiency in Java, Python, and C++ with a proven track record of operational leadership and data-driven decision-making[cite: 5, 28, 38].
+I am a Computer Science graduate with a specialization in **Software Engineering**. I blend technical proficiency in Java, Python, and C++ with a proven track record of operational leadership and data-driven decision-making.
 
 ---
 
@@ -29,23 +29,23 @@
 
 ### 🧪 Key Projects
 
-* [cite_start]**Monte Carlo Sports Predictor (Python):** Developed an algorithm to predict game outcomes based on team statistics, running 500+ iterations to generate expected values[cite: 22, 23].
-* [cite_start]**Retail POS System (Java/C++):** Collaborated on a full-scale grocery Point-of-Sale system managing inventory, payments, and sales data analytics[cite: 24, 25].
+**Monte Carlo Sports Predictor (Python):** Developed an algorithm to predict game outcomes based on team statistics, running 500+ iterations to generate expected values.
+**Retail POS System (Java/C++):** Collaborated on a full-scale grocery Point-of-Sale system managing inventory, payments, and sales data analytics.
 
 ---
 
 ### 📈 Why Me?
 Beyond the code, I bring **Senior Leadership** experience:
-* [cite_start]**Management:** Managed operations for 8 retail locations as an Interim District Manager[cite: 33].
-* [cite_start]**Data-Driven:** Expert in using **Power BI** and **Salesforce** to forecast sales and identify growth opportunities[cite: 32, 38].
-* [cite_start]**Academic Foundation:** Strong background in Algorithms, Machine Learning, and Parallel Programming.
+**Management:** Managed operations for 8 retail locations as an Interim District Manager.
+**Data-Driven:** Expert in using **Power BI** and **Salesforce** to forecast sales and identify growth opportunities.
+**Academic Foundation:** Strong background in Algorithms, Machine Learning, and Parallel Programming.
 
 ---
 
 ### 📫 Let's Connect
-* [cite_start]**LinkedIn:** [linkedin.com/in/nicholas--nath/](https://linkedin.com/in/nicholas--nath/) [cite: 2]
-* [cite_start]**Email:** Nicholask.nath@gmail.com [cite: 2]
-* [cite_start]**Location:** Oakland, NJ [cite: 2]
+**LinkedIn:** [linkedin.com/in/nicholas--nath/](https://linkedin.com/in/nicholas--nath/)
+**Email:** Nicholask.nath@gmail.com 
+**Location:** Oakland, NJ
 
 ---
-![Nicholas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
+![Nicholas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_YOUR_USERNAME&show_icons=true&theme=radical)
